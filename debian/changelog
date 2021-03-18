@@ -1,3 +1,9 @@
+debhelper (13.3.3~bpo10+1+atari1) atari; urgency=medium
+
+  * Import from backports for vcs
+
+ -- Sjoerd Simons <sjoerd@collabora.com>  Thu, 18 Mar 2021 19:06:13 +0100
+
 debhelper (13.3.3~bpo10+1) buster-backports; urgency=medium
 
   * Rebuild for buster-backports.
